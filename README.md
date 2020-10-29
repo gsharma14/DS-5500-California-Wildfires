@@ -6,11 +6,10 @@
 One of the growing threats to our existence is the increasing number of forest fires. Due to the impacts of climate change resulting in higher temperatures and drier conditions, we are observing lengthening forest fire seasons, particularly in the western United States (Figures 1 and 2).<sup>1</sup> Forest fires can be beneficial for the environment, by clearing the forest floor of heavy brush and signaling some tree species to release their seeds, but when these fires become larger and harder to manage, we observe increasingly catastrophic and devastating consequences, including the destruction of property, wildlife, and human lives.<sup>2</sup>  The costly interactions between humans and wildfires demonstrate the need to understand the relationship between them, especially in the face of changing climate conditions and expanding human communities. The enormous uncertainty about the size, location, and number of the future forest fires creates an interesting analytical and predictive modeling challenge.   
 <br />
 <p align="center">
-<img src="https://www.predictiveservices.nifc.gov/outlooks/month1_outlook.png" alt="wildfire-potential" width=300 hspace="100">
-<img src="https://www.researchgate.net/profile/Michael_Mann6/publication/264235193/figure/fig8/AS:295925844070402@1447565627237/Fig-A2-Fire-Hazard-Severity-Zones-of-California.png" alt="fire-threat" width=200 height=250>
+  <img width="220" height="242" src="https://upload.wikimedia.org/wikipedia/commons/8/85/2020_California_wildfires.png">
 </p>
-<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<b>Figure 1: Forest Fire spread in USA, 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figure 2: Fire Threat Analysis in California</b>
+<p align="center">
+<b>Figure 1: Forest Fire Spread in California, 2020 </b>
 </p>
 <br />
 
