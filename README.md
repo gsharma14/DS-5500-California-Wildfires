@@ -6,7 +6,7 @@
 One of the growing threats to our existence is the increasing number of forest fires. Due to the impacts of climate change resulting in higher temperatures and drier conditions, we are observing lengthening forest fire seasons, particularly in the western United States (Figures 1 and 2).<sup>1</sup> Forest fires can be beneficial for the environment, by clearing the forest floor of heavy brush and signaling some tree species to release their seeds, but when these fires become larger and harder to manage, we observe increasingly catastrophic and devastating consequences, including the destruction of property, wildlife, and human lives.<sup>2</sup>  The costly interactions between humans and wildfires demonstrate the need to understand the relationship between them, especially in the face of changing climate conditions and expanding human communities. The enormous uncertainty about the size, location, and number of the future forest fires creates an interesting analytical and predictive modeling challenge.   
 <br />
 <p align="center">
-  <img width="220" height="242" src="https://upload.wikimedia.org/wikipedia/commons/8/85/2020_California_wildfires.png">
+  <img width="320" height="342" src="https://upload.wikimedia.org/wikipedia/commons/8/85/2020_California_wildfires.png">
 </p>
 <p align="center">
 <b>Figure 1: Forest Fire Spread in California, 2020 </b>
