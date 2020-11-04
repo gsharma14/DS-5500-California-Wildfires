@@ -27,12 +27,12 @@ From our spatial analysis we observed that the severity of fire incidents has in
 
 
 #### References:
-1. Gray, E. (2019, September 19). Satellite Data Record Shows Climate Change’s Impact on Fires. NASA - Global Climate Change: Vital Signs of the Planet. https://climate.nasa.gov/news/2912/satellite-data-record-shows-climate-changes-impact- on-fires/
+1. Gray, E. (2019, September 19). Satellite Data Record Shows Climate Change’s Impact on Fires. NASA - Global Climate Change: Vital Signs of the Planet. https://climate.nasa.gov/news/2912/satellite-data-record-shows-climate-changes-impact-on-fires/
 
 2. California Department of Fish and Wildlife. (n.d.). Science: Wildfire Impacts. CA.gov. Retrieved 2020, from https://wildlife.ca.gov/Science-Institute/Wildfire-Impacts
 
-3. Center for Disaster Philanthropy (CPP). (2020, October 23). 2020 North American Wildfire Season. Center for Disaster Philanthropy. https://disasterphilanthropy.org/disaster/2020- california-wildfires/
+3. Center for Disaster Philanthropy (CPP). (2020, October 23). 2020 North American Wildfire Season. Center for Disaster Philanthropy. https://disasterphilanthropy.org/disaster/2020-california-wildfires/
 
-4. US Forest Service. (2020, April 29). National Interagency Fire Occurrence 1992-2015 (Feature Layer). https://enterprisecontentnew- usfs.hub.arcgis.com/datasets/e4d020cb51304d5194860d4464da7ba7_0/data?geometry=61.662% 2C-2.200%2C54.279%2C76.163
+4. US Forest Service. (2020, April 29). National Interagency Fire Occurrence 1992-2015 (Feature Layer). https://enterprisecontentnew- usfs.hub.arcgis.com/datasets/e4d020cb51304d5194860d4464da7ba7_0/data?geometry=61.662%2C-2.200%2C54.279%2C76.163
 
 5. UCI. (n.d.). UCI Machine Learning Repository: Forest Fires Data Set. UCI Machine Learning Repository. Retrieved 2020, from https://archive.ics.uci.edu/ml/datasets/Forest+Fires
